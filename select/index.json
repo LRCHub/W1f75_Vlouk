@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "白昼夢",
+  "base_artist": "深根",
+  "createdAt": "2026-02-19T06:02:42.342569Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "白昼夢",
+      "artist": "Lamp",
+      "has_synced": true,
+      "path": "select/01_白昼夢_Lamp.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "白昼夢",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/02_白昼夢_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "白昼夢",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/03_白昼夢_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "白昼夢",
+      "artist": "深根",
+      "has_synced": true,
+      "path": "select/04_白昼夢_深根.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "白昼夢 [Daydream]",
+      "artist": "Lamp",
+      "has_synced": true,
+      "path": "select/05_白昼夢_[Daydream]_Lamp.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "白昼夢 (TV edit)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/06_白昼夢_(TV_edit)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "白昼夢",
+      "artist": "佐井好子",
+      "has_synced": false,
+      "path": "select/07_白昼夢_佐井好子.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "白昼夢",
+      "artist": "Yoshiko Sai",
+      "has_synced": false,
+      "path": "select/08_白昼夢_Yoshiko_Sai.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "白昼夢",
+      "artist": "上田麗奈",
+      "has_synced": true,
+      "path": "select/09_白昼夢_上田麗奈.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "白昼夢",
+      "artist": "Lamp",
+      "has_synced": true,
+      "path": "select/10_白昼夢_Lamp.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "白昼夢",
+      "artist": "深根",
+      "has_synced": false,
+      "path": "select/pl_01_白昼夢_深根.txt"
+    }
+  ]
+}
